@@ -154,7 +154,7 @@ HEART/
 | Name | Contact |
 |---|---|
 | **Michele Ivo Galella** | [@michelinot99](https://github.com/michelinot99) |
-| **Benedetta Tintori** | |
+| **Benedetta Tintori** | [@btintori](https://github.com/btintori) |
 
 ## Acknowledgements
 
