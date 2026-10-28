@@ -1,0 +1,26 @@
+# HEART - Heartbeat Extraction and Arrhythmia Recognition Tool
+# Tested with Python 3.10
+
+# Data manipulation & math
+pandas>=2.0.0
+numpy>=1.20.0,<2.0.0
+
+# Signal processing & wavelets
+wfdb>=4.0.0
+scipy>=1.8.0
+PyWavelets>=1.4.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.12.0
+
+# Machine learning & class imbalance
+scikit-learn>=1.4.0
+imbalanced-learn>=0.10.0
+xgboost>=1.6.0,<3.0.0
+
+# Explainable AI
+shap>=0.40.0
+
+# Notebooks
+jupyterlab>=4.0.0

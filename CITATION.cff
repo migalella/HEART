@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "HEART: Heartbeat Extraction and Arrhythmia Recognition Tool"
+abstract: "Interpretable ECG arrhythmia classification on the MIT-BIH Arrhythmia Database with Pan-Tompkins QRS detection, handcrafted rhythm/morphology/wavelet features, inter-patient evaluation and SHAP explanations."
+authors:
+  - family-names: Galella
+    given-names: Michele Ivo
+  - family-names: Tintori
+    given-names: Benedetta
+date-released: 2026-06-14
+license: MIT
+repository-code: "https://github.com/michelinot99/HEART"
+keywords:
+  - ECG
+  - arrhythmia classification
+  - MIT-BIH
+  - explainable AI
+  - SHAP
+  - machine learning
