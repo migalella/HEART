@@ -9,7 +9,7 @@ authors:
     given-names: Benedetta
 date-released: 2026-06-14
 license: MIT
-repository-code: "https://github.com/michelinot99/HEART"
+repository-code: "https://github.com/migalella/HEART"
 keywords:
   - ECG
   - arrhythmia classification

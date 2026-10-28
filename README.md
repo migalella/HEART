@@ -114,7 +114,7 @@ More figures in [`figures/`](figures/). The full analysis is in the [report](doc
 ## Getting Started
 
 ```bash
-git clone https://github.com/michelinot99/HEART.git
+git clone https://github.com/migalella/HEART.git
 cd HEART
 
 python3.10 -m venv .venv
@@ -153,7 +153,7 @@ HEART/
 
 | Name | Contact |
 |---|---|
-| **Michele Ivo Galella** | [@michelinot99](https://github.com/michelinot99) |
+| **Michele Ivo Galella** | [@migalella](https://github.com/migalella) |
 | **Benedetta Tintori** | [@btintori](https://github.com/btintori) |
 
 ## Acknowledgements
